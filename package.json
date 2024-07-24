@@ -1,0 +1,19 @@
+{
+  "name": "check-cards",
+  "version": "0.0.6",
+  "description": "will check amex,mastercard,visa valid or invalid",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/muditajoshi/check-cards.git"
+  },
+  "author": "muditajoshi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/muditajoshi/check-cards/issues"
+  },
+  "homepage": "https://github.com/muditajoshi/check-cards#readme"
+}
