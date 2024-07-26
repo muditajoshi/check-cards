@@ -63,7 +63,3 @@ To run the test suite, first install the dependencies, then run `npm test:`
 
 [MIT](https://github.com/muditajoshi/check-cards/blob/main/LICENSE)
 
-## Keywords
-
-[api](https://www.npmjs.com/search?q=keywords:api) , [check-cards](https://www.npmjs.com/search?q=keywords:check-cards)
-

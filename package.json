@@ -1,6 +1,6 @@
 {
   "name": "check-cards",
-  "version": "0.0.16",
+  "version": "0.0.19",
   "description": "will check amex,mastercard,visa valid or invalid",
   "main": "index.js",
   "scripts": {
