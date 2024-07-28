@@ -59,7 +59,8 @@ To run the test suite, first install the dependencies, then run `npm test:`
 ## Documentation
 
 [GitHub Organization](https://github.com/muditajoshi/check-cards.git) for Official Middleware & Modules 
+
 ## License
 
-[MIT](https://github.com/muditajoshi/check-cards/blob/main/LICENSE)
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/muditajoshi/check-cards/blob/main/LICENSE) file for details.
 
